@@ -1,0 +1,11 @@
+body {
+  background: aqua;
+}
+.WelcomeView {
+  background: url("food.jpg") left bottom;
+  background-size: cover;
+}
+.UserView {
+  background: url("user.jfif") left bottom;
+  background-size: cover;
+}
